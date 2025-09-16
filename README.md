@@ -4,7 +4,7 @@ A simple web-based To-Do List app built with HTML, CSS, and JavaScript to help y
 
 ## Overview
 
-This application allows users to create a list of tasks they want to accomplish. You can add new tasks, mark them as complete, edit existing tasks, and delete tasks when they're no longer needed. The app stores your tasks in the browser’s local storage, so your list remains saved even after you close or refresh the page.
+This application allows users to create a list of tasks they want to accomplish. You can add new tasks,  and delete tasks when they're no longer needed. 
 
 ## Features
 
