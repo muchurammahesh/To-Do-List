@@ -35,6 +35,3 @@ The app uses simple HTML for the structure, CSS for styling, and JavaScript to h
 - CSS3 (Flexbox/Grid for layout)
 - JavaScript (DOM manipulation and localStorage)
 
-## License
-
-This project is licensed under the MIT License.
