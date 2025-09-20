@@ -5,6 +5,9 @@ A simple web-based To-Do List app built with HTML, CSS, and JavaScript to help y
 ## Overview
 
 This application allows users to create a list of tasks they want to accomplish. You can add new tasks,  and delete tasks when they're no longer needed. 
+
+<img width="1867" height="901" alt="image" src="https://github.com/user-attachments/assets/903bc12f-ad69-471b-b045-1bc3f0044136" />
+
 🚀 Check out the deployed application here:  
 👉 [Live Demo]( https://to-do-list-by-mahi.netlify.app/ )
 ## Features
